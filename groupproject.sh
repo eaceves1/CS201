@@ -1,4 +1,6 @@
 #!/bin/bash
+# Hi Its me Alex 
+
 # Name: Elijah Aceves
 # Course: CI 201 Section 2
 # Description:
